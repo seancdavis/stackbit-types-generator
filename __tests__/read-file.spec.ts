@@ -1,4 +1,4 @@
-import { sayHello } from './read-file'
+import { sayHello } from '@/read-file'
 
 console.log('TEST')
 
