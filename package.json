@@ -1,0 +1,8 @@
+{
+  "name": "@seancdavis/stackbit-types-generator",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:seancdavis/stackbit-types-generator.git",
+  "author": "Sean C Davis <hello@seancdavis.com>",
+  "license": "MIT"
+}
