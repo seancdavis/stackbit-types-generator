@@ -5,8 +5,14 @@
   "repository": "git@github.com:seancdavis/stackbit-types-generator.git",
   "author": "Sean C Davis <hello@seancdavis.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc",
+    "test": "jest"
+  },
   "devDependencies": {
     "@stackbit/types": "^0.7.1",
+    "jest": "^29.5.0",
     "typescript": "^5.0.4"
   }
 }
