@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:seancdavis/stackbit-types-generator.git",
   "author": "Sean C Davis <hello@seancdavis.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@stackbit/types": "^0.7.1",
+    "typescript": "^5.0.4"
+  }
 }
